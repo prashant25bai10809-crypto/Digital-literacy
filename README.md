@@ -8,8 +8,11 @@ This repository contains my Digital Literacy Project created as part of my colle
 ## Student Details
 
 **Name:** Prashant Yogesh Patil
+
 **Course:** B.Tech
+
 **Branch:** Artificial Intelligence & Machine Learning
+
 **Semester:** 2nd Semester
 
 
