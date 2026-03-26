@@ -55,9 +55,13 @@ Contains files related to cybercrime awareness.
 ## Tasks Included in the Project
 
 Task 1 – Digital Literacy Presentation
+
 Task 2 – Personal Portfolio Setup
+
 Task 3 – Google Workspace Collaboration
+
 Task 4 – Email Etiquette and Social Media Responsibility
+
 Task 5 – Cybercrime Awareness
 
 
