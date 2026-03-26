@@ -4,7 +4,6 @@
 
 This repository contains my Digital Literacy Project created as part of my college coursework. The project focuses on understanding digital tools, internet basics, Google Workspace platforms, email etiquette, and cybercrime awareness. All tasks are organized in separate folders with proper files and screenshots.
 
----
 
 ## Student Details
 
@@ -13,13 +12,11 @@ This repository contains my Digital Literacy Project created as part of my colle
 **Branch:** Artificial Intelligence & Machine Learning
 **Semester:** 2nd Semester
 
----
 
 ## Objective of the Project
 
 The main objective of this project is to improve digital literacy skills that are essential for students. Through this project, I learned how to use GitHub, create a personal portfolio, use Google Forms and Google Sheets, write professional emails, and understand cybercrime awareness.
 
----
 
 ## Folder Structure
 
@@ -41,7 +38,6 @@ Contains the internship inquiry email and the social media do’s and don’ts c
 **task-5-cybercrime/**
 Contains files related to cybercrime awareness.
 
----
 
 ## Tools and Platforms Used
 
@@ -52,7 +48,6 @@ Contains files related to cybercrime awareness.
 * Google Docs
 * Internet Resources
 
----
 
 ## Tasks Included in the Project
 
@@ -62,13 +57,11 @@ Task 3 – Google Workspace Collaboration
 Task 4 – Email Etiquette and Social Media Responsibility
 Task 5 – Cybercrime Awareness
 
----
 
 ## Conclusion
 
 This project helped me understand the importance of digital literacy in academic life. I learned how to organize files properly, upload projects on GitHub, create Google Forms, and write professional emails. I also gained knowledge about responsible social media usage and cybercrime awareness. Overall, this project improved my technical knowledge and confidence in using digital tools.
 
----
 
 ## References
 
